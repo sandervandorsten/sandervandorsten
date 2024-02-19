@@ -1,6 +1,6 @@
 ### Hi there, I'm Sander van Dorsten 👋
 
-🇳🇱 I'm a Data Engineer from the Netherlands, and live in Utrecht.
+🇳🇱 I'm a Data / Machine Learning Engineer from the Netherlands, and live in Utrecht.
 
 🏫 I have a background in Data Science and Machine Learning, and love to apply Software Engineering best practices into projects.
 

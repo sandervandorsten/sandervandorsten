@@ -1,12 +1,14 @@
 ### Hi there, I'm Sander van Dorsten 👋
 
-🇳🇱 I'm a Data / Machine Learning Engineer from the Netherlands, and live in Utrecht.
+🇳🇱 I'm a Machine Learning / Data Engineer from the Netherlands, and live in Utrecht.
 
 🏫 I have a background in Data Science and Machine Learning, and love to apply Software Engineering best practices into projects.
 
-🔭 I'm currently  creating Data platforms according to Data Lakehouse architecture in both Azure and AWS. I'm incorporating a plethora of software tools to do so.
+🔭 I'm currently creating Machine Learning Operations tools For Schiphol Group. 
 
-🌱 I'm currently learning more about Terraform (tool) and the position of Analytics Engineering in the Modern Data Stack. You may find me at meetups like  [PyData](https://www.meetup.com/pydata-nl/), the [Digital Power Data Meetup](https://www.meetup.com/digital-power-data-tips-know-how/), the [Analytics Engineering](https://www.meetup.com/analytics-engineering/) sessions or at [Data Engineering NL](https://www.meetup.com/data-engineering-nl/).
+🌱 I'm currently learning more about setting up Databricks for enterprises, and studying for my Certificatied Kubernetes Administration exam (CKA).  
+
+📅 You may find me at meetups like [PyData](https://www.meetup.com/pydata-nl/), the [Data & Drinks Meetup of Xomnia](https://www.meetup.com/data-drinks/) or at the [MLOps Community in Amsterdam](https://www.meetup.com/amsterdam-mlops-community/).
 
 🧗 In my free time I go bouldering in the gym in Utrecht. A couple of times a year I go to Fontainebleau to enjoy climbing outdoors 🏕️🌲🪨
 
